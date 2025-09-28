@@ -6,7 +6,7 @@
 
 @font-face {
 	font-family: Speed;
-	src: url(/fonts/Speed.otf);
+	src: url("../fonts/Speed.otf");
 }
 body {
 	font-family: Arial, sans-serif;
@@ -24,7 +24,7 @@ header {
 
 header h1 {
 	font-size: 3rem;
-	font-family: Speed;
+	font-family: Speed, sans-serif;
 	margin-bottom: 15px;
 }
 
